@@ -1,0 +1,47 @@
+img{
+    width: 500px
+  }
+  div{
+    text-align:center;
+  }
+  h1{
+    text-align:center;
+    color:pink;
+    font-size: 55px;
+    background-color: black;
+  }
+  ul{
+    text-align:left;
+    font-size: 20px;
+    line-height: 20px;
+  }
+  h2{
+    line-height:22px;
+    font-size: 25px;
+    color: black;
+    background-color: pink;
+  }
+  h3{
+    line-height:22px;
+    font-size: 25px;
+    color: black;
+    background-color: pink;
+  }
+  h4{
+    line-height:22px;
+    font-size: 25px;
+    color: black;
+    background-color: pink;
+  }
+  h5{
+    line-height:22px;
+    font-size: 25px;
+    color: black;
+    background-color: pink; 
+  }
+  h6{
+    line-height:22px;
+    font-size: 25px;
+    color: black;
+    background-color: pink;  
+  }
